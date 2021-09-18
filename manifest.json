@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "IU backgorund",
+  "version": "1.0",
+  "description": "This will show IU background in new Tab",
+  "author": "Van Y",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
